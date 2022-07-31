@@ -9,6 +9,9 @@ import Navigation from "./components/navigation";
 import Home from "./components/home";
 
 function App() {
+  
+  console.log("For more information open your console and click \"Sources\" and \"index.js\"");
+
   return (
     <div>
       <Navigation />
