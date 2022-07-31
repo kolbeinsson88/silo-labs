@@ -6,7 +6,7 @@ class Navigation extends React.Component {
             <div className="nav">
                 <div className="nav__row"> 
                     <h1 className="nav__row__heading">
-                        <a href="/">SILO LABS</a>
+                        <a href="/">SILO LAB</a>
                     </h1>
                 </div>
             </div>

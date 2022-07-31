@@ -1,20 +1,21 @@
-
-.nav, .nav__row__wrapper__h2 {
-    text-align: left;
-    display: inline;
-    padding-right: 0.8rem;
-}
-
 .nav__row { 
-    padding: 30px 15px;
+    padding: 10px auto;
     margin: 0 auto;
-    max-width: fit-content;
+    max-width: 70%;
 }
 
 .nav__row__heading { 
     text-transform: uppercase; 
     letter-spacing: 0.06em;
-    margin-bottom: 0.625rem;
+}
+
+.nav {
+    padding: 10px;
+}
+
+.nav__row__heading a {
+    padding: 10px 0;
+    border-bottom: 1px solid #d63d17;
 }
 
 .nav__row__wrapper__h2 { 
@@ -26,9 +27,9 @@
 
 .page__main { 
     display: block;
-    padding: 20px;
+    padding: 20px 0;
     margin: 0 auto;
-    width: 90%;
+    width: 70%;
 }
 
 .page__main__section {
@@ -43,6 +44,12 @@
     padding: 12px;
     width: fit-content;
     padding: 12px;
+}
+
+.page__main__header {
+    padding: 8px 20px;
+    text-transform: uppercase;
+    
 }
 
 .message-div_margin_t { margin-top: 90px; }
@@ -246,14 +253,18 @@ a { color: #9b230b; }
 .icon-button:focus { border: 1px solid #cccccc }
 
 .badge {
-    border-radius: 9%;
-    border: 2px solid #6CC417;
-    padding: 5px;
-    font-size: 0.9rem;
+    display: inline-block;
+    margin: 4px 0;
+    border-radius: 4%;
+    border: 1px solid #8afb21;
+    padding: 6px;
+    font-size: 0.8rem;
+    width: fit-content;
+    height: auto;
 }
 
 .badge_color_g {
-    background-color: #1f1c1c;
+    background-color: #353232;
     color: #6CC417;
 }
 
