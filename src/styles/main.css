@@ -317,3 +317,26 @@ a { color: #9b230b; }
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+/* Media queries */
+@media (max-width: 1000px) {
+    .page__row { 
+        padding: 15px 0;
+        width: 85%;
+    }
+
+    .page__row__section {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .page__row { 
+        padding: 10px 0;
+        width: 95%;
+    }
+    
+    .page__row__section {
+        padding: 10px;
+    }
+}
