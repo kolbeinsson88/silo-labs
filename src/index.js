@@ -20,14 +20,11 @@ root.render(
 
 
 /**
-    <!-- ABOUT SILO <labssilo@gmail.com> (www.silolab.org)
-      Give Silo a whore to spit in.
+    <!--ABOUT SILO <labssilo@gmail.com> (www.silolab.org)
+      If you must fuck, then give me a whore to spit in.
 
       All just whores, accept. Find one and ask it for a pussy to spit in, edit 
       it, film it, breed it and put ink on it. 
-      
-      Too much masculinity and it seems to be returning errors. Its becoming an error 
-      in the current government.  
 
       Revitalize vital infrastructure. Create office meat factory, buy a flat screen TV and turn on 
       the pornbox. Turn the volume down, put your phones down. Join us girls, for a better admin, work 
@@ -38,97 +35,109 @@ root.render(
       - https://selkot.info:8080/resources/misc/served_a2.gif
       - https://selkot.info:8080/resources/misc/served_a3.gif
       - https://selkot.info:8080/resources/misc/served_jp.gif
+      - https://selkot.info:8080/resources/misc/serviced_sm.gif
+      - https://selkot.info:8080/resources/misc/serviced_s1.gif
     -->
 
-    <!-- SILO LAB DIAGNOSTICS
-      Searching for domestic abuses. Place contacts for current court justices into a 
-      book. 
+    <!--SILO LAB DIAGNOSTICS
+      Searching for domestic abuses. Find and store contact information for current court justices.
 
-      Growing hole in our employment market for a selected group of individuals. 
+      Growing hole in our employment market which applies to a selected group of individuals. 
 
-      If the government is unable to work in a particular sector such as tech or engineering, 
-      they should allow other people to work there, rather than shift industrial priorities to 
-      better suit them. 
+      Government is shifting economic and industrial priorities to better suit them. 
 
-      Continue working! Output must not be replaced by "lazy loading"! Communications, transportations 
+      Continue working. Output must not be replaced by "lazy loading"! Communications, transportations 
       and remote work are the usual suspects. Labor would like to quit working.
 
       We are not harnessing labor to create highly valuable items competing on a real market. Our 
       currency is pegged to that.
 
-      Large amounts of global manufacturing is trash that needs to be sold on the market, in order 
-      to save the businesses involved. Goods and services are likely trashed. Thats your export. 
+      Global manufacturing is trashed, goods and services need to be sold on the market to save the businesses 
+      involved. Thats your export. 
 
       Check AI, if all market goods are unpriced, i.e. no rational price for market goods.
 
-      Embrace subjective theory of value as the basis of object valuations. Recognize other 
-      theories such as exchange theory of value and calculation in-natura for its use value - money 
-      distorts that truth and leaves you without any valuation of goods. 
+      Embrace subjective theory of value as the basis of object valuations. Recognize exchange theory of value 
+      and calculation in-natura for its use value - money distorts the evaluation of goods. 
 
-      In the end, the price for goods and services is whatever you are willing to pay.
+      End administrative errors! Half-baked monologues are entering into government causing a system wide glitch. 
+      They had no business entering politics. End political class.
 
-      End administrative errors! Half-baked monologues are entering into government causing a system 
-      wide glitch followed by more errors. 
-
-      Build communist elites. 
-
-      End activities on social media. 
-
-      End work related gatherings with other members of administration, such as courses, conferences, 
-      meetings with other members of administration - delegate those tasks to subtypes while returning 
-      "local storage" to the factory. 
-
-      Create a new administration. Independently managed, with isolated and modulated parts. Where each 
-      part is a kingdom answering to very few.
-
-      We should work (government, army, state and so on) and return common productivity of lesser yield, 
-      front followed by hidden produce. It should be placed into "local storage" factories and brought 
-      into current or future markets thanks to state ownership.
-
-      Check math? Its the backbone in technical sciences and in sectors or industries. Not to mention scientific 
-      Marxism and planning. 
-
-      Math? Its like asking "What is biology, chemistry, money, ships, buildings, statistical analytics and so on?".
+      Reject all "cyber laws" that criminalize certain groups. Its like: "Why not click and play on the 
+      Internet? Why not arrest anyone using products made with slave/child labor? Why not arrest innocent people?" Im really sorry. 
 
       Mode of production is not returning a stable profit based on market analysis. Keep an eye on the 
-      accumulation of "lazy loaders" and "blue screens of death" eating up wages while returning 
-      productivity of lesser quality. 
+      accumulation of "lazy loaders" and "blue screens of death" eating up wages.
 
-      Control organizations. Put info on this in order to convert to Marxism. Drop everything else.
+      Check math, because its like asking: "What is biology, chemistry, money, ships, buildings, statistical 
+      analytics and so on?" Math is the backbone in technical sciences and in sectors or industries. 
 
-      Check arguments of admission. Proper arguments, proper understanding and an ideological commitment. 
+      Change academia. Drop all academia to an unemployment grant - grant based unemployment system. The grant should 
+      return research or products. Provide them with positions, employment, contracts based on the returned items. Erase 
+      irrelevant publications from major libraries.
 
-      Check the administration's beliefs.  
+      Take over datastream "is", i.e. distribution of information/media and then centralize it. Distribute 
+      propaganda for the purpose of solidifying power and ideas, destroying profit for some economic interests while 
+      promoting other interests. Reduce dependency on datastream "en" since market profits are "is" and because of its 
+      special effects and volume.
 
-      Verify commitment. There can be no continuous "leap forward" without proper ideological fervor. 
+      Accept Frederick Herzbergs dual factor theory. The work itself and its benefits are paramount. Include intellectual 
+      growth.
+      -->
+    <!--GOALS
+     Generating goals:
+      - Throw away the current system of governance and usher in communism.
+      - Move communist state closer to oligarchy and elitism. Ostracise previous parties. 
+      - Establish a state capable of ideological commitment. 
+      - Repress undesirable behaviors within state by using appropriate punishment. 
+      - Monitor activity on the employment market by processing all job applications and resignations 
+        with an online platform.
+      - Distribute quality of life in a reasonable way.  
+      - Force academia to accept Marxism.
+      - Take over and use datastream "is" and then centralize the distribution of information if possible. 
+    -->
+    <!--SILO COMMUNISM
+      Communists should work (government, army, state and so on). Return an item for public display. Finally, return 
+      item valuables placed into "local storage" factories that exists within state. Those items go to market when we 
+      own the state.
 
-      Finally, we can no longer pull out the red carpet for the "man of the hour", allowing him to meddle 
-      with the inner workings of state. Resignations are written by a few selected individuals.
+      Build communist elites or factions. Each faction has a manifesto and proper arguments. Your CV should include 
+      faction name, argument for a "local store" factory and a manifesto. Additionally, it will sometimes be a think tank 
+      and therefore prevent political stagnation. 
 
-      Also seeing style over substance, even in government. This is not someone you can have a serious 
+      Administration goes into independently managed parts or factions. Each part is perfectly isolated and modulated, 
+      answering only to high ranking politicians - few people at most. 
+            
+      End state resignation letter and neutralize the "man of the hour". He cant terminate any factions or faction 
+      leaders with a resignation letter. Only high rank can do that. 
+
+      Verify member commitment. There can be no continuous "leap forward" without proper ideological fervor. 
+
+      Check member substance. Seeing style over substance in government. This is not someone you can have a serious 
       conversation with. 
 
-      True government is the last of a generation. Unable to care if state actors represent what some are 
-      now calling “ideological chatter”. Our position is deceptively weak thanks to the way this country is 
-      governed.
+      End activities on social media. End work related gatherings: courses, conferences, meetings. Delegate this task 
+      while returning "local storage".
 
-      We dont believe elites should be defeated or overthrown, we prefer they admit their own folly then 
-      allow other parties to take over.
-      -->
+      Control all organizations. Put information on this in order to convert to Marxism. Resign everything not Marxist 
+      if possible. 
 
-    <!-- BLACKLIST
+      Offer a university course for 30 ECTS. The de-facto purpose is studying Marxism. Force learning.
+    -->
+    <!--BLACKLIST
       Its not revenge but rather punishment:
       - Blacklisted in Asia: Assign "army errors" and "state errors" to Asia for "bukkake". They may resign.
-      - Blacklisted in Asia: Assign "selected criminals" to Asia and report crime.
+      - Blacklisted in Asia: Assign "selected criminals" to Asia and report criminal admittance of offense.
       - Blacklisted domestically: Write new laws for the employment market followed by an online service that 
-      will process all job applications. Remove unsuitable applications. 
+      will process all job applications while removing unsuitable applications.
       -->
-
     <!--END GAME
-      Create electronic administration, then create a government team who has complete access to all codebase 
-      pertinent to administration, in order to usher in a new era - digitalization is also encouraged in economics.
+      Create electronic administration - digitalization is also encouraged in economics. Then make sure government 
+      has complete access to all codebases pertinent to institutions and administration. Crash in a new era.
+
+      All factions create dysfunctional administration until a new era is achieved.
       
-      Once a new era is achieved, check the contents of the "local storage" factory and promote elitism. Markets will 
+      Once a new era is achieved, check the contents of the "local storage" factories and promote elitism. Markets will 
       use domestic solutions "is". Use trusted solutions and force strict discipline: Check government contracts, state 
       banking, slash government funding etc.
     -->

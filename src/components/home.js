@@ -5,14 +5,12 @@ class Home extends React.Component {
     render () {
         return (
             <div className="page">
-                <div className="page__main">
-                    <div className="page__main__section">
+                <div className="page__row">
+                    <div className="page__row__section">
                         <h2 className="title">Keywords</h2>
-                        <div>
-                            <p>leadership, culture, dataism, technocracy, labor theory of value, elitism, research and development, state banking</p>
-                        </div>
+                        <p>leadership, culture, Dataism, technocracy, labor theory of value, elitism, research and development, state banking</p>
                     </div>
-                    <div className="page__main__section">
+                    <div className="page__row__section">
                         <h2>Manifesto</h2>
                         <p>
                             Leadership allows us to create complex organizations, maintain control within organizations while providing us with a beneficial sense of direction. It provides an effective administration, allowing actors such as businesses and organizations to return measurable results, like science and production. It has the ability to put plans into action while making sure they are completed.
@@ -24,7 +22,7 @@ class Home extends React.Component {
                             Update government websites, therefore effectively censoring all unwanted content to match government schematics: Empower workers rights, democratization of corporations and public ownership. 
                         </p>
                         <p>
-                            Allow dataism as a school of thought. Install computers in government institutions so they can register key information and statistics using computer systems or software. Prevent corruption of datasets and databases. Encourage software development and the services they offer while attempting to manipulate all online data streams. 
+                            Allow Dataism as a school of thought. Install computers in government institutions so they can register key information and statistics using computer systems while preventing corruption of datasets and databases. Support software development when it results in greater distribution of digital information. Remove laws that criminalize the distribution of digital information. Accept era of pornography and remove laws that criminalize the distribution of sexual content.
                         </p>
                         <p>
                             Adopt technocracy then solve social problems with the use of modern technologies. Further improve electronic administration by moving public services online - one place if possible. Encourage business productivity and increase profits with the use of automation and digital computing. Online business transactions will take place online thanks to e-commerce. Invest in smart technologies if they improve business and institutional efficiency. Further improve internet connectivity, since the Internet of Things (IoT) could not continue without the Internet.

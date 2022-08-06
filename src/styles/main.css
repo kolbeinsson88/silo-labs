@@ -25,14 +25,14 @@
 
 .page { display: block; }
 
-.page__main { 
+.page__row { 
     display: block;
     padding: 20px 0;
     margin: 0 auto;
     width: 70%;
 }
 
-.page__main__section {
+.page__row__section {
     display: block;
     padding: 20px;
 }
@@ -46,7 +46,7 @@
     padding: 12px;
 }
 
-.page__main__header {
+.page__row__header {
     padding: 8px 20px;
     text-transform: uppercase;
     
