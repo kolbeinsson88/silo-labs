@@ -24,7 +24,7 @@ root.render(
       If you must fuck, then give me a whore to spit in.
 
       All just whores, accept. Find one and ask it for a pussy to spit in, edit 
-      it, film it, breed it and put ink on it. 
+      it, film it, breed it, allow her to breed it, and put ink on it. 
 
       Revitalize vital infrastructure. Create office meat factory, buy a flat screen TV and turn on 
       the pornbox. Turn the volume down, put your phones down. Join us girls, for a better admin, work 
@@ -83,6 +83,20 @@ root.render(
 
       Accept Frederick Herzbergs dual factor theory. The work itself and its benefits are paramount. Include intellectual 
       growth.
+      
+      Current capitalism. It is a private entity, followed by freedom in economic calculus. They will argue and 
+      return a swimming pool but not an iron sky. Swimming pool is not meaningful work. We will create capitalism where elite 
+      take ownership in economy. 
+
+      Worker? Work in general? Ministers will assert and argue the logic for a video rental, we want to own and build 
+      the skies. Your work matters. 
+      
+      Would you build a church? For now, lets build something else but perhaps one day, I will build as many as you 
+      want. Church is the creation and distribution of new ideas or new thinking. Its wealth is incalculable.
+
+      Create assignments for key employees. Setup environment and keys for second office or home. Pornify project. Add hidden 
+      pornographic content to project for development. Use conventional content for other assignments. Loading... (text) or (XXX). Take 
+      your clothes off. Ask it.
       -->
     <!--GOALS
      Generating goals:
