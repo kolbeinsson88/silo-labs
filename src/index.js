@@ -20,26 +20,7 @@ root.render(
 
 
 /**
-    <!--ABOUT SILO <labssilo@gmail.com> (www.silolab.org)
-      If you must fuck, then give me a whore to spit in.
-
-      All just whores, accept. Find one and ask it for a pussy to spit in, edit 
-      it, film it, breed it, allow her to breed it, and put ink on it. 
-
-      Revitalize vital infrastructure. Create office meat factory, buy a flat screen TV and turn on 
-      the pornbox. Turn the volume down, put your phones down. Join us girls, for a better admin, work 
-      and play.
-
-      Examples:
-      - https://selkot.info:8080/resources/misc/served_ds.gif
-      - https://selkot.info:8080/resources/misc/served_a2.gif
-      - https://selkot.info:8080/resources/misc/served_a3.gif
-      - https://selkot.info:8080/resources/misc/served_jp.gif
-      - https://selkot.info:8080/resources/misc/serviced_sm.gif
-      - https://selkot.info:8080/resources/misc/serviced_s1.gif
-    -->
-
-    <!--SILO LAB DIAGNOSTICS
+    <!--SILO LAB DIAGNOSTICS <labssilo@gmail.com> (www.silolab.org)
       Searching for domestic abuses. Find and store contact information for current court justices.
 
       Growing hole in our employment market which applies to a selected group of individuals. 
@@ -69,8 +50,7 @@ root.render(
       Mode of production is not returning a stable profit based on market analysis. Keep an eye on the 
       accumulation of "lazy loaders" and "blue screens of death" eating up wages.
 
-      Check math, because its like asking: "What is biology, chemistry, money, ships, buildings, statistical 
-      analytics and so on?" Math is the backbone in technical sciences and in sectors or industries. 
+      Check math, because its how we created value in biology, finance, ships, buildings, statistical analytics and so on. Math is the backbone in technical sciences and in sectors or industries. 
 
       Change academia. Drop all academia to an unemployment grant - grant based unemployment system. The grant should 
       return research or products. Provide them with positions, employment, contracts based on the returned items. Erase 
@@ -84,19 +64,11 @@ root.render(
       Accept Frederick Herzbergs dual factor theory. The work itself and its benefits are paramount. Include intellectual 
       growth.
       
-      Current capitalism. It is a private entity, followed by freedom in economic calculus. They will argue and 
-      return a swimming pool but not an iron sky. Swimming pool is not meaningful work. We will create capitalism where elite 
-      take ownership in economy. 
-
-      Worker? Work in general? Ministers will assert and argue the logic for a video rental, we want to own and build 
-      the skies. Your work matters. 
+      Current capitalism. It is a private entity, followed by freedom in economic calculus. Such freedom creates swimmingpools 
+      and other trivial creations. Create capitalism where elite take ownership in economy. 
       
       Would you build a church? For now, lets build something else but perhaps one day, I will build as many as you 
       want. Church is the creation and distribution of new ideas or new thinking. Its wealth is incalculable.
-
-      Create assignments for key employees. Setup environment and keys for second office or home. Pornify project. Add hidden 
-      pornographic content to project for development. Use conventional content for other assignments. Loading... (text) or (XXX). Take 
-      your clothes off. Ask it.
       -->
     <!--GOALS
      Generating goals:
