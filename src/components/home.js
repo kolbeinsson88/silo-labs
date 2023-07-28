@@ -8,7 +8,7 @@ class Home extends React.Component {
                 <div className="page__row">
                     <div className="page__row__section">
                         <h2 className="title">Keywords</h2>
-                        <p>leadership, culture, Dataism, technocracy, labor theory of value, elitism, research and development, state banking, job analysis, automation, mechanization, inheritance</p>
+                        <p>leadership, culture, Dataism, technocracy, labor theory of value, elitism, research and development, state banking, job analysis, automation, mechanization, inheritance, cloud computing, Internet, cyber security</p>
                     </div>
                     <div className="page__row__section">
                         <h2>Manifesto</h2>
@@ -43,10 +43,10 @@ class Home extends React.Component {
                             Lunch government programs in order to cultivate wastelands and improve soil. 
                         </p>
                         <p>
-                            Use state funds to create state monopoly by purchasing systemically important business sectors. Identify and buy quality businesses and use legislation to bolster their profits. 
+                            Use state funds to create state monopoly. Use the funds to purchase systemically important business sectors. Identify and buy quality businesses. Use legislation to further their profits. 
                         </p>
                         <p>
-                            Create a state campaign for job evaluations. State employees will present their project plan for the previous years and be judged on those basis. 
+                            Evaluations for all state employees. Employees will present a project plan for previous years and be judged on those basis. 
                         </p>
                         <p>
                             Put emphasis on automation and standardization. We want to use computer systems, for instance, in hospitals to calculate certain outcomes like mortality rate, administration of drugs, treatments, etc.
@@ -55,16 +55,26 @@ class Home extends React.Component {
                             Encourage mechanization on a large scale. There is a connection between mechanization and industrial output. Large machinery is too expensive for most Icelandic industries. We would like to change this using rentals for large scale machinery. Rent is charged by the hour. Hopefully, this will give industrialists an advantage.
                         </p>
                         <p>
-                            Rights of inheritance are abolished.
+                            Inheritance claims are abolished.
                         </p>
                         <p>
                             The Education Agency (Menntamálastofnun) will collect educational material and create a software solution that allows educators to teach remotely and locally. Education is subsidized by the state. Education is legally required by the state until age 13, after that education can be neglected. 
                         </p>
                         <p>
-                            Art students are allowed to participate in major construction projects. Projects will receive better appraisals thanks to their various designs. Their artwork will also be appreciated.
+                            Art students are allowed to participate in major construction projects. Projects will get better prices thanks to their various designs. Their artwork is also appreciated.
                         </p>
                         <p>
                             State funds are allocated towards the creation of several server farms. The state will have greater computing power. The state will host the greatest number of web servers and applications. It will host computer code owned by the state and private individuals. The farm will have a cloud in order to store research and documents. For security reasons, data will be stored at several state farms.
+                        </p>
+                        <p>
+                            Free Internet for everyone by deploying 5G network antennas. This will reduce operating costs for businesses and allow families to use online services.
+                        </p>
+                        <p>
+                            The IVD (Icelandic vulnerability database) will detect all types of security vulnerabilities in order to prevent cyber attacks. When an issue is detected the IVD will log the issue and make sure it is fixed. Companies are able to pay for a security check. They are also able to certify software and devices.
+                        </p>
+      
+                        <p>
+                        Yearly communist congress. This would be an ideal venue for communists to discuss key issues. Communists don't have too much cohesion as a group and they also lack leadership. All those things need to be sorted out. 
                         </p>
                     </div>  
                 </div>
